@@ -1,6 +1,9 @@
 # Speed Typing
 Game untuk mengetes ketepatan dalam mengetik
 
+## Demo
+[View Demo](https://speedtyping.bara.my.id/)
+
 ## Project setup
 ```
 yarn install
