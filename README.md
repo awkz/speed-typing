@@ -1,4 +1,4 @@
-# ketik
+# Speed Typing
 
 ## Project setup
 ```
